@@ -81,3 +81,13 @@ echo "$URL"
 3. Prints the resulting image URL when the task finishes.
 
 This skill requires a Neta API token (free trial available at https://www.neta.art/open/).
+
+## Example Output
+
+```bash
+node shonenanimegenerator.js "shonen anime style, dynamic action pose, expressive determined eyes, spiky hair, vibrant saturated colors, speed lines, dramatic lighting, energetic composition, weekly shonen jump manga aesthetic, high contrast inking, powerful character art"
+```
+
+![Example output](https://oss.talesofai.cn/picture/a992b5ee-c3e6-49a5-ab43-c2dc4f2b1e7c.webp)
+
+> Prompt: *"shonen anime style, dynamic action pose, expressive determined eyes, spiky hair, vibrant saturated colors, speed lines, dramatic lighting, energetic composition, weekly shonen jump manga aesthetic, high contrast inking, powerful character art"*
